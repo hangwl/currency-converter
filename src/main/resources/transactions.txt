@@ -1,0 +1,11 @@
+Alice USD CAD 1000
+Alice CAD SGD 500
+
+Alice USD CAD 99999
+Alice USD CAD -10000
+
+Alice X CAD 1000
+Alice USD X 1000
+
+Alice USD RMB
+Alice USD JPY 1000 ???
